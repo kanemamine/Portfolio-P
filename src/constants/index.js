@@ -54,11 +54,11 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Marketing',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Project Management',
     icon: prototyping,
   },
 ];
@@ -125,31 +125,31 @@ const technologies = [
 const experiences = [
   {
     title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    company_name: 'Win Technologie',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Apr 2024 - Present',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
-    icon: microverse,
+    title: 'internship',
+    company_name: 'Win Technologie',
+    icon: coverhunt,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Feb 2024 - Apr 2024',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Marketing Director',
+    company_name: 'WONDEI INVESTISSEMENT',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'Mar 2020 - Oct 2021',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Business Development Manager',
+    company_name: 'IM ACADEMY',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Feb 2018 - Dec 2018',
   },
 ];
 
