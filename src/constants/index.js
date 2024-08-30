@@ -156,8 +156,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Win Website',
+    description: ' Develop enterprise software, web applications, and mobile apps',
     tags: [
       {
         name: 'react',
@@ -173,8 +173,7 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    demo: 'https://wintechnologie.app/',
   },
   {
     id: 'project-2',
