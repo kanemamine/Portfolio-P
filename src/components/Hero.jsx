@@ -40,8 +40,7 @@ const Hero = () => {
               Hi, I'm{' '}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
-                text-eerieBlack text-[50px] font-mova
-                font-extrabold uppercase">
+                text-eerieBlack text-[50px] font-poppins uppercase">
                 Amine
               </span>
             </h1>
