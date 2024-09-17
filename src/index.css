@@ -55,15 +55,26 @@
   margin-left: -24px;
   font-size: 100px;
 }
+#aboutMb {
+  font-size: 50px;
+}
 
 #projects {
   margin-left: -2px;
   font-size: 100px;
 }
+#projectsMb {
+  margin-left: -2px;
+  font-size: 50px;
+}
 
 #contact {
   margin-left: -20px;
   font-size: 95px;
+  letter-spacing: -2px;
+}
+#contactMb {
+  font-size: 50px;
   letter-spacing: -2px;
 }
 

@@ -22,7 +22,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-{/*           <img
+          {/*           <img
             src={logo}
             alt="logo"
             className="sm:w-[50px] sm:h-[50px] w-[45px] h-[45px] object-contain"
@@ -66,18 +66,15 @@ const Navbar = () => {
                   onClick={() => setToggle(!toggle)}
                 />
               </div>
-              <ul
-                className="list-none flex flex-col -gap-[1rem] 
-                items-start justify-end mt-[10rem] -ml-[35px]"
-              >
+              <ul className="list-none flex flex-col items-center justify-end mt-10">
                 {navLinks.map((nav) => (
                   <li
-                    id={nav.id}
+                    id={nav.idMb}
                     key={nav.id}
                     className={`${
                       active === nav.title ? "text-french" : "text-eerieBlack"
-                    } text-[88px] font-bold font-arenq 
-                      uppercase tracking-[1px] cursor-pointer`}
+                    } text-1xl sm:text-4xl md:text-6xl lg:text-7xl font-bold font-arenq 
+                                uppercase tracking-wide cursor-pointer my-4`}
                     onClick={() => {
                       setToggle(!toggle);
                       setActive(nav.title);
